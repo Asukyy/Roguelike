@@ -1,0 +1,9 @@
+Thank you for purchasing this tileset!
+Here you'll find dozens of tiles and scenery to create snowy environments!
+
+The folders contain the tiles with the configuration used in RPG Maker and there's also a folder for general engines, containing the tiles in an autotile format (used in Game Maker Studio and similiar engines).
+
+If you have any questions, just send me a comment.
+
+Good development,
+- Kazzter
